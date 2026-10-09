@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ledger-search",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
